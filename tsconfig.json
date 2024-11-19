@@ -10,6 +10,11 @@
     "noImplicitReturns": true,
     "noFallthroughCasesInSwitch": true,
     "skipLibCheck": true,
+    "paths": {
+      "naive-bayes": [
+        "./dist/naive-bayes"
+      ]
+    },
     "esModuleInterop": true,
     "sourceMap": true,
     "declaration": false,
